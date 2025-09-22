@@ -1,0 +1,30 @@
+# Maven
+/target/
+/out/
+/dependency-reduced-pom.xml
+
+# NetBeans (Maven)
+/nbproject/private/
+/nbproject/*-private.properties
+/nbproject/private.properties
+# Si tu proyecto Maven tiene nb-configuration.xml y te da conflictos, puedes ignorarlo:
+# /nb-configuration.xml
+
+# IDE varios
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java
+*.class
+
